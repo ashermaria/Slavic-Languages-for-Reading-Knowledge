@@ -22,7 +22,7 @@ h4 a {
 }
 
 button {
-    background-color: #555;
+    background-color: #71816d;
     color: white;
     padding: 12px 25px;
     border: none;
@@ -32,7 +32,7 @@ button {
 }
 
 button:hover {
-    background-color: #333;
+    background-color: #c9b79c;
 }
 
 nav {
