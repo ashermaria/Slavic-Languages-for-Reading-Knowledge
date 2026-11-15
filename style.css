@@ -36,12 +36,12 @@ button:hover {
 }
 
 nav {
-    background-color: #333;
+    background-color: #c9b79c;
     padding: 15px;
 }
 
 nav a {
-    color: white;
+    color: #71816d;
     text-decoration: none;
     margin-right: 20px;
 }
