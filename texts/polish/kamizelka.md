@@ -314,7 +314,3 @@ Dziś patrząc na starą kamizelkę widzę, że nad jej ściągaczami pracowały
 Nieba prawie już nie było nad ziemią. Padał tylko śnieg taki gęsty i zimny, że nawet w grobach marzły ludzkie popioły.
 
 Któż jednak powie, że za tymi chmurami nie ma słońca?…
-
----
-
-*Tekst źródłowy: Bolesław Prus, „Kamizelka”, opracowanie Wolne Lektury, na podstawie wydania Państwowego Instytutu Wydawniczego, Warszawa 1976. Utwór znajduje się w domenie publicznej. Źródło: [Wolne Lektury](https://wolnelektury.pl/katalog/lektura/kamizelka/).*
