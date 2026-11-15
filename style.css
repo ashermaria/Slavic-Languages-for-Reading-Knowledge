@@ -1,5 +1,6 @@
 body {
-    background-color: beige;
+    background-color: #f1e0c5;
+    color: #c9b79c;
     font-family: Tahoma;
     font-size: 22px;
 }
@@ -9,7 +10,7 @@ header {
 }
 
 h1 {
-    color: darkred;
+    color: #71816d;
 }
 h1 a,
 h2 a,
