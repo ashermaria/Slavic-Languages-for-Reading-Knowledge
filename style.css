@@ -12,12 +12,6 @@ header {
 h1 {
     color: #71816d;
 }
-h1 a,
-h2 a,
-h3 a,
-h4 a {
-    pointer-events: none;
-}
 
 a {
     color: inherit;
