@@ -9,12 +9,10 @@ header {
     font-size: 25px;
 }
 
-h1 {
+h1, h2 {
     color: #71816d;
 }
-h2 {
-    color: #71816d;
-}
+
 h3 {
     color: #988363;
 }
@@ -67,10 +65,15 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
 table {
     border-collapse: collapse;
 }
 
 td, th {
     border: 1px solid #333333;
+}
+
+td:first-child, th {
+    font-weight: bold;
 }
