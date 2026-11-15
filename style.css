@@ -72,6 +72,7 @@ table {
 
 td, th {
     border: 1px solid #333333;
+    padding: 8px 12px;
 }
 
 td:first-child, th {
